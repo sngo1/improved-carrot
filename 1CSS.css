@@ -1,0 +1,14 @@
+body {
+    background-color: #f7e6ff;
+    text-align: center;
+}
+
+h1 {
+    color: lightred;
+    text-align: left;
+}
+
+a {
+    color: purple;
+    font: 45px arial italic bold;
+}

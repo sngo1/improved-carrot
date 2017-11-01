@@ -1,0 +1,14 @@
+body {
+    background-color: lightgreen;
+    text-align: center;
+}
+
+h1 {
+    color: lightred;
+    text-align: left;
+}
+
+a {
+    color: purple;
+    font: italic bold;
+}
