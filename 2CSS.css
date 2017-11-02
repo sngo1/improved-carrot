@@ -6,4 +6,31 @@ p {
 h3 {
     color:orange;
     text-align:right;
+    letter-spacing: 10px;
 }
+
+a:hover {
+    background-color: lightgreen;
+}
+
+.navzone:hover {
+    background-color: yellow;
+}
+
+.content:hover {
+    color: green;
+}
+
+.prose {
+    color: purple;
+}
+
+.extreme {
+    color: purple;
+}
+
+.extreme:hover {
+    background-color: black;
+    color: white;
+}
+    
